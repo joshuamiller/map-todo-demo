@@ -1,0 +1,24 @@
+{
+  "name": "MapTodoDemo",
+  "interface": "reagent6",
+  "envRoots": {
+    "dev": "env/dev",
+    "prod": "env/prod"
+  },
+  "modules": [
+    "react-native-maps"
+  ],
+  "imageDirs": [
+    "images"
+  ],
+  "platforms": {
+    "ios": {
+      "host": "localhost",
+      "modules": []
+    },
+    "android": {
+      "host": "localhost",
+      "modules": []
+    }
+  }
+}
