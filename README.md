@@ -7,7 +7,8 @@ A demo app using ClojureScript and React-Native
 ```
 $ lein figwheel ios
 
-$ react-native run-ios`
+$ react-native run-ios
+```
 
 ## License
 
