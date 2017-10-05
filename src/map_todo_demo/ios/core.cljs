@@ -85,3 +85,16 @@
 
 
   )
+
+
+(comment
+
+  (def native-modules (.-NativeModules ReactNative))
+  (def adder (.-Adder native-modules))
+
+  (defn callback
+    [err success]
+    (alert (str "Result: " success)))
+
+  (.add adder 5 10 callback)
+  )
