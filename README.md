@@ -1,14 +1,17 @@
 # map-todo-demo
 
-A Clojure library designed to ... well, that part is up to you.
+A demo app using ClojureScript and React-Native
 
 ## Usage
 
-FIXME
+```
+$ lein figwheel ios
+
+$ react-native run-ios`
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Joshua Miller
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
