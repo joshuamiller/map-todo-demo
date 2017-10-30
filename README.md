@@ -7,6 +7,8 @@ A demo app using ClojureScript and React-Native
 ```
 $ lein figwheel ios
 
+$ npm install
+
 $ react-native run-ios
 ```
 
